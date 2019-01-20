@@ -1,0 +1,4 @@
+Inside the imagesInitialization method, in the PhotoViewer Class change the path to the folder containing subfolders of images.
+The path inside the showImage method should also be changed to the location of the Photos folder.
+The names of the subfolders are used to search for images in those subfolders. For example, the search for 'London' will enter the subfolder named as London.
+The names of the images should also be unique and they should describe the image.  
